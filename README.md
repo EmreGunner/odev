@@ -2,7 +2,7 @@
 
 This repository contains three Jupyter Notebook files (odev01.ipynb, odev01_extra.ipynb, and odev01_extra_advanced.ipynb) for the begining of a programming course in a university. The files contains some simple codes  for the assigments.
 
-Comments and variable names are Turkish. To improve readibly for other turkish students.
+Comments and variable names are Turkish. To improve readability for other turkish students.
 
 #  *odev01.ipynb*
 
