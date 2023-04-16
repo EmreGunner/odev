@@ -2,12 +2,12 @@
 
 This repository contains three Jupyter Notebook files (odev01.ipynb, odev01_extra.ipynb, and odev01_extra_advanced.ipynb) for the begining of a programming course in a university. The files contains some simple codes  for the assigments.
 
- *odev01.ipynb*
+#  *odev01.ipynb*
 
 This file contains the main homework assignment. It has 5 python questions and their answers.
 
 
-*odev01_extra.ipynb*
+# *odev01_extra.ipynb*
 This file contains an extra homework assignment for those who are familiar with the basics. It adds functionality to the main program by allowing the user to enter the student's department and student number, and print this information.
 
 # *odev01_extra_advanced.ipynb*
