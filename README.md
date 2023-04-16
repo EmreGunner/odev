@@ -8,8 +8,9 @@ This file contains the main homework assignment. It has 5 python questions and t
 
 
 *odev01_extra.ipynb*
-This file contains an extra homework assignment for those who are familiar with the basics. It adds functionality to the main program by allowing the user to enter the student's department and student number, and saves this information to the CSV file.
-odev01_extra_advanced.ipynb
+This file contains an extra homework assignment for those who are familiar with the basics. It adds functionality to the main program by allowing the user to enter the student's department and student number, and print this information.
+
+# *odev01_extra_advanced.ipynb*
 
 This file is an advanced and shorter version of the odev01_extra.ipynb file.
 It includes all the functionality of the extra homework assignment in a more concise and efficient way and 
